@@ -1,2 +1,2 @@
 # ssdmn2
-hellow world framework with ai in dokcer, take ssdmn2 hand writing  recognize as example
+hellow world framework with ai in docker, take ssdmn2 hand writing recognize as example
